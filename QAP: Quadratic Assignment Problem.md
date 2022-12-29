@@ -15,6 +15,7 @@
 ### QAP Guide and links
 - https://neos-guide.org/case-studies/sc/la/qap/
 <img width="325" alt="Screen Shot 2022-12-29 at 4 45 30 PM" src="https://user-images.githubusercontent.com/25238652/210018183-5c40092f-a9d1-4870-9c70-2b7b2234c48c.png">
+
 - https://www.opt.math.tugraz.at/~cela/papers/qap_bericht.pdf
 - https://medium.com/swlh/quadratic-assignment-problem-solved-247338a6aa40
 - https://www.wits.ac.za/media/migration/files/cs-38933-fix/migrated-pdf/pdfs-2/Quadratic%20Assignment%20Problem%20MISG2013.pdf
